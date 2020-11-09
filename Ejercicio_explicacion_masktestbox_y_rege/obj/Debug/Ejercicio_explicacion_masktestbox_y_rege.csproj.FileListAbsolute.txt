@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\bin\Debug\Ejercicio_explicacion_masktestbox_y_rege.exe.config
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\bin\Debug\Ejercicio_explicacion_masktestbox_y_rege.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\bin\Debug\Ejercicio_explicacion_masktestbox_y_rege.pdb
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.Form1.resources
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.Properties.Resources.resources
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Ejercicio_explicacion_masktestbox_y_rege\obj\Debug\Ejercicio_explicacion_masktestbox_y_rege.pdb
